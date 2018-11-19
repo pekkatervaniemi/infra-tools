@@ -16,5 +16,5 @@ find-server-from-master.py
 
   """
 
-
+<b>ssacli-diskmon.sh</b>
 #check hp server disk status with hpssacli prints server and NON OK disks status
