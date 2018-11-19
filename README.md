@@ -1,6 +1,8 @@
 # infra-tools
 Collection of mixed scripts
 
+find-server-from-master.py
+
 """
 h2 file /t fields
 Service	server	id	Role
@@ -10,6 +12,6 @@ hosts
 server1
 server2
 
-Finds servers from h2 and combines lines.
+Finds servers from master list and combines lines.
 
 """
