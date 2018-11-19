@@ -1,8 +1,8 @@
 # infra-tools
 Collection of mixed scripts
-
+<b>
 find-server-from-master.py
-
+</b>
   """
   h2 file /t fields
   Service	server	id	Role
@@ -15,6 +15,8 @@ find-server-from-master.py
   Finds servers from master list and combines lines.
 
   """
+<b>
+ssacli-diskmon.sh
+</b>
 
-<b>ssacli-diskmon.sh</b>
 #check hp server disk status with hpssacli prints server and NON OK disks status
